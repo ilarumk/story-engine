@@ -4,7 +4,7 @@ const Header = () => {
   <div className="mx-auto max-w-screen-xl px-1 py-8 sm:px-6 sm:py-3 #fbbf24">
     <div className="sm:flex sm:items-center sm:justify-between">
       <div className="text-center sm:text-left">
-        <h1 className="text-2xl font-bold text-gray-900 sm:text-3xl">Bedtime Story Engine</h1>
+        <h1 className="text-2xl font-bold text-gray-900 sm:text-3xl">ImagiGen: AI Storyteller for Kids</h1>
 
         <p className="mt-1 text-sm text-white-500">Bring your imagination to create a bedtime story! 🎉</p>
       </div>
